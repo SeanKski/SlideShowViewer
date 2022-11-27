@@ -1,13 +1,13 @@
 # Making sure no images/video get added to the repo
-.JPEG
-.jpeg
-.jpg
-.JPG
-.HEIC
-.png
-.PNG
-.MP3
-.mp3
+*.JPEG
+*.jpeg
+*.jpg
+*.JPG
+*.HEIC
+*.png
+*.PNG
+*.MP3
+*.mp3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
